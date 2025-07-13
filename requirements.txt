@@ -1,14 +1,8 @@
-Flask==2.3.3
-python-dotenv==1.0.1
-pymongo==4.7.2
+FFlask==2.3.3
+Flask-Cors==4.0.0
+numpy==1.24.4
+pillow==10.2.0
 tensorflow==2.14.0
-keras==3.0.5
-Pillow==10.3.0
-scikit-learn==1.4.2
-
-# Optional: For email sending
-secure-smtplib
-
-# Render uses gunicorn
-gunicorn==21.2.0
-
+h5py==3.10.0
+python-dotenv==1.0.1
+pymongo==4.6.3
